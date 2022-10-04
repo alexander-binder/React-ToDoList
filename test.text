@@ -1,6 +1,0 @@
-git commit -m "Your message about the commit"
-     git remote add origin https://github.com/alexander-binder/React-ToDoList.git
-     git push -u origin master
-     git push origin master  
-
-dhdhdhd
